@@ -16,7 +16,7 @@ body{
 
 .card{
     width:70%;
-    height:600px;
+    height:500px;
     max-width: 1200px;
     background-color: hsl(244, 38%, 16%);
     display: flex;
