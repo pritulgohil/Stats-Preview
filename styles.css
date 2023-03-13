@@ -122,7 +122,7 @@ body{
     .card{
         flex-direction: column-reverse;
         width:95%;
-        height:600px;
+        height:650px;
     }
 
     .side1{
@@ -131,6 +131,7 @@ body{
 
     .side1 h2{
         font-size:1.5rem;
+        padding-top: 5%;
     }
 
     .side1 .desc{
@@ -139,6 +140,7 @@ body{
 
     .figure{
         gap:30px;
+        padding-bottom: 5%;
     }
 
     .f1 .bold{
